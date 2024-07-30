@@ -2,7 +2,7 @@ public class p16 {
 
     public static void main(String[] args) {
 
-        System.out.println("23DIT020 DIVY KALATHIYA");
+    
 
         parent p1= new parent();
 
